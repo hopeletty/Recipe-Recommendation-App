@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1020192661071",
+    "firebase_url": "https://mydiet-c351f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mydiet-c351f",
+    "storage_bucket": "mydiet-c351f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020192661071:android:60ec4d7ef6646c2e45943a",
+        "android_client_info": {
+          "package_name": "com.example.mydiet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020192661071-mog2ne4i16jsd80noll59unaui3q267j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE2czB-P7rVrbZVte8cay8J8W-Ub1KC68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020192661071-mog2ne4i16jsd80noll59unaui3q267j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

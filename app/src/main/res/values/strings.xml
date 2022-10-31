@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyDiet</string>
+    <string name="api_key">d89998c7afd548b9af9318a0ff3b4ee3</string>
+
+    <string-array name="tags">
+        <item>main course</item>
+        <item>side dish</item>
+        <item>dessert</item>
+        <item>appetizer</item>
+        <item>salad</item>
+        <item>bread</item>
+        <item>breakfast</item>
+        <item>soup</item>
+        <item>beverages</item>
+        <item>sauce</item>
+        <item>marinade</item>
+        <item>finger food</item>
+        <item>snack</item>
+        <item>drink</item>
+    </string-array>
+</resources>
